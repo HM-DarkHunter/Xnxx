@@ -1,35 +1,38 @@
 #### Thank You-🙏🏼
 
-<p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
-</p>
 
-
-Evil Devill (Devil FaceBook Hacking Tool)
+HM Borhan Uddin (Borhan FaceBook Hacking Tool)
                 
-**username** `hacker`
-**password** `wasii`
+**username** `jakiya`
+**password** `black`
 
 ## Devil Tool installation
 
 ```
 > apt-get update -y
 
-> apt-get install python2 -y
 
-> pip2 install mechanize
+>apt-get install python2 -y
 
-> pip2 install requests
 
-> apt-get install git -y
+>pip2 install mechanize
 
-> git clone https://github.com/evildevill/Devil.git
 
-> cd Devil
+ >pip2 install requests
 
-> chmod +x *
 
-> python2 wasi.py 
+>apt-get install git -y
+
+
+>git clone https://github.com/HM-BORHAN-BLACK-HOLE-CYBER/Xnxx.git
+
+>cd Xnxx
+
+
+>chmod +x *
+
+
+>python2 Xnxx.py
 
 ```
 
@@ -40,35 +43,20 @@ it is very complex and you can mess up something and disrupt the framework!
 
 ***
 
-# Devil Framework execution
+# borhan Framework execution
 
 ```
-To run Devil Framework you should 
+To run borhan Framework you should 
 execute the following command.
 ```
 
-> python2 Devil.py
+> python2 Xnxx.py
 
 ***
 
-# Why Devil Framework
+# Why borhan Framework
 
 * More than 38 tools for pentesting installed by default.
-
-```
-More than 38 options installed by default 
-you can find in Devil, this is tools such 
-as MetaSploit, Pupy and other tools!
-```
-
-* Password protection and config encryption.
-
-```
-In version 2.1.6 we added pasword protection, we added 
-it for users who think that his/her friend or parents will 
-turn into Devil and will remove or destroy it. Only for this 
-people we created Devil Framework password protection.
-```
 
 
 
